@@ -1,2 +1,3 @@
 Pushing from master to main
 03/23/2025 IT WORKS! use 'git push origin HEAD:main' in this case
+renamed local 'master' to 'main' and pushing
