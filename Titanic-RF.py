@@ -81,17 +81,17 @@ print("Your submission was successfully saved!")
 # In[15]:
 
 
-get_ipython().system('git init')
-get_ipython().system('git config --global user.email "amaung0451@gmail.com"')
-get_ipython().system('git config --global user.name "AdamM"')
-get_ipython().system('git config --global init.defaultBranch main')
-get_ipython().system('git branch -m main')
+#get_ipython().system('git init')
+#get_ipython().system('git config --global user.email "amaung0451@gmail.com"')
+#get_ipython().system('git config --global user.name "AdamM"')
+#get_ipython().system('git config --global init.defaultBranch main')
+#get_ipython().system('git branch -m main')
 
 
 # In[17]:
 
 
-get_ipython().system('git add titanic-ml.ipynb')
-get_ipython().system('git commit -m "Pushed from Kaggle"')
-get_ipython().system('git push -u origin main')
+#get_ipython().system('git add titanic-ml.ipynb')
+#get_ipython().system('git commit -m "Pushed from Kaggle"')
+#get_ipython().system('git push -u origin main')
 
